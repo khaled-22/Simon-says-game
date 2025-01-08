@@ -26,4 +26,4 @@ This is a simple version of the Simon Says Game using HTML, CSS, and JavaScript.
 
 
 
-<img src="Images/Game_screenshot.png" alt="description" width="300" height="300">
+<img src="Images/Game_screenshot.png" alt="description" width="500" height="500">
