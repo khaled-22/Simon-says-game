@@ -25,4 +25,4 @@ This is a simple version of the Simon Says Game using HTML, CSS, and JavaScript.
 2. Open 'index.html' in a web browser
 
 
-![Game_screenshot](https://github.com/user-attachments/assets/c1d7394b-7c23-4d26-88af-9128f5afcff8)
+<img src="path/to/your/image.jpg" alt="description" width="300" height="200">
